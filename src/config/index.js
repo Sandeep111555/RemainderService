@@ -1,3 +1,4 @@
 module.exports={
-    serverConfig:require('./serverConfig')
+    serverConfig:require('./serverConfig'),
+    emailConfigs:require('./email-configs')
 }
